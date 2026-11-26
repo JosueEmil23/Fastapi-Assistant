@@ -1,0 +1,22 @@
+# Entornos virtuales
+.venv/
+.venv-1/
+venv/
+env/
+
+# Variables de entorno reales
+.env
+
+# Caché de Python y pytest
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Bases de datos locales SQLite
+*.db
+*.sqlite3
+
+# Editores / SO
+.vscode/
+.idea/
+.DS_Store
